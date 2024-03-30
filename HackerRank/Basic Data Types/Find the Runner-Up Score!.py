@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar 30 22:22:15 2024
+Created on Sat Mar 30 22:26:35 2024
 
-@author: Samadov
+@author: 48513
 """
+
 if __name__ == '__main__':
     n = int(input())
     arr = list(map(int, input().split()))
