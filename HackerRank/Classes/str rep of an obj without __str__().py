@@ -2,7 +2,7 @@
 """
 Created on Tue May  7 01:49:48 2024
 
-@author: 48513
+@author: Samadov
 """
 
 class MyClass():
